@@ -1,4 +1,4 @@
-MeatKing
+Ayam Potong Pak Taufik 
 ========
 
-Restaurant Theme based on Twitter Bootstrap 3
+Landing Page Biasa Aja
